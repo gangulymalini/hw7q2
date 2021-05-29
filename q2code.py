@@ -1,3 +1,3 @@
-def fizzBuzz():
+def leapyear():
     teststring = ""
     return(teststring)
